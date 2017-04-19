@@ -1,0 +1,44 @@
+body
+{
+	color: black;
+	font-family: "Georgia";
+}
+h1
+{
+	font-size: 45pt;
+	text-align: center;
+}
+h2
+{	font-size: 25pt;
+	text-align: center;
+}
+h3
+{
+	font-size: 15pt;
+	text-align: center;
+}
+h4
+{
+	font-size: 22pt;
+	text-indent: 75px;
+}
+
+#main
+{
+	background-color: #c6cbd3;
+}
+
+p
+{
+	margin-left: 40px;
+	margin-right: 40px;
+	font-size: 15pt;
+}
+
+img
+{
+	width: 700px;
+	height: 300px;
+}
+
+
